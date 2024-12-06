@@ -8,6 +8,10 @@
 <br>
 <br>
 
+## [수상 내역]
+
+🏆 [상명대학교 프로젝트 평가 우수상](
+
   
 ## [프로젝트 설명]
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/f0033a21-e774-4920-a1bb-75bdd55df7b2">
