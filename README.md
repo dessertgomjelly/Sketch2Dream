@@ -10,9 +10,11 @@
 
 ## [수상 내역]
 
-🏆 [상명대학교 프로젝트 평가 우수상](
+🏆 [상명대학교 SW 융합공과대학 졸업프로젝트 우수상](https://github.com/dessertgomjelly/Sketch2Dream/blob/master/2024%E1%84%8C%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC.png)
 
-  
+<br>
+<br>
+
 ## [프로젝트 설명]
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/f0033a21-e774-4920-a1bb-75bdd55df7b2">
 
